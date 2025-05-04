@@ -20,17 +20,17 @@ Also the pronunciation of "SblipDev" is S - blip - dev
 <table>
   <tr>
     <th>
-      <img src="https://github-readme-stats.vercel.app/api?username=shaurya-blip&show_icons=true&theme=dracula" alt="github stats"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=svalordev&show_icons=true&theme=dracula" alt="github stats"/>
     </th>
     <th>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=shaurya-blip&theme=dracula">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=svalordev&theme=dracula">
     </th>
   </tr> 
   </table>
   <table>
   <tr>   
     <th width="40%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaurya-blip&theme=dracula">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=svalordev&theme=dracula">
     </th>
     <th width="35%">
       <p>

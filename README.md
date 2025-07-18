@@ -4,7 +4,7 @@
 <!-- <h3 align="center"></h3> -->
 <img src="https://komarev.com/ghpvc/?username=shaurya-blipe&label=Profile%20views&color=004488&style=flat">
 <!-- Update -->
-Hi, I am svalordev. I know advanced coding in Python, Javascript, HTML, CSS, PostgreSQL, and some things about machine learning. I have created MuchScript, PyServed, etc. I like coding, playing basketball, and playing video games(Favourite: Jedi Fallen Order). I write blogs about blogs about software <br><br>
+Hi, I am Shaurya Pratap Singh. I know advanced coding in Python, Javascript, HTML, CSS, PostgreSQL, and some things about machine learning. I have created MuchScript, PyServed, etc. I like coding, playing basketball, and playing video games(Favourite: Jedi Fallen Order). I write blogs about blogs about software <br><br>
 
 Also the pronunciation of "SblipDev" is S - blip - dev
 

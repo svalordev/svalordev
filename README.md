@@ -6,8 +6,6 @@
 <!-- Update -->
 Hi, I am Shaurya Pratap Singh, and I live in Gurugram, India. I have advanced coding skills in Python, JavaScript, HTML, CSS, and PostgreSQL, along with some knowledge of machine learning. I have created several projects, including MuchScript and PyServed. In my free time, I enjoy coding, playing basketball, and playing video games—my favorite is Jedi: Fallen Order. I also write blogs about software. <br><br>
 
-Also the pronunciation of "SblipDev" is S - blip - dev
-
 <!-- Commented due to down server of graph -->
 <!-- <img src="https://activity-graph.herokuapp.com/graph?username=shaurya-blip&theme=rogue&area=true&hide_border=true" width="100%" align="right"><br> -->
 

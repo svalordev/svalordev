@@ -1,5 +1,3 @@
-![Alt Text](Sblipdev%20(1).gif)
-
 <h1 align="center"> Hi 👋</h1>
 <!-- <h3 align="center"></h3> -->
 <img src="https://komarev.com/ghpvc/?username=shaurya-blipe&label=Profile%20views&color=004488&style=flat">
@@ -11,10 +9,9 @@ Hi, I am Shaurya Pratap Singh, and I live in Gurugram, India. I have advanced co
 
 <p></p>
 <!-- 
-[![trophy](https://github-profile-trophy.vercel.app/?username=shaurya-blip&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
-
-<p></p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=shaurya-blip&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)                       !!!!!    ![Alt Text](Sblipdev%20(1).gif) !!!!!!!!!!
  -->
+ 
 <table>
   <tr>
     <th>
@@ -43,12 +40,12 @@ Hi, I am Shaurya Pratap Singh, and I live in Gurugram, India. I have advanced co
       </p>
     </th>
     <th>
-      <img src="https://img.shields.io/badge/Dell Latitude 3400-0B57A4?style=for-the-badge&logo=dell&logoColor=white">
-      <img src="https://img.shields.io/badge/Intel i5 8265U-0B57A4?style=for-the-badge&logo=intel&logoColor=white">
+      <img src="https://img.shields.io/badge/Asus Zenbook Pro Duo-0B57A4?style=for-the-badge&logo=asus&logoColor=white">
+      <img src="https://img.shields.io/badge/Intel i7 12700H-0B57A4?style=for-the-badge&logo=intel&logoColor=white">
 <!--       <img src="https://img.shields.io/badge/Intel-Iris%20Graphics-1188CC?style=for-the-badge&logo=intel&logoColor=white"> -->
-      <img src="https://img.shields.io/badge/3.9 GHz-0088CC?style=for-the-badge&logo=speed&logoColor=white">
+      <img src="https://img.shields.io/badge/2.3 GHz-0088CC?style=for-the-badge&logo=speed&logoColor=white">
       <img src="https://img.shields.io/badge/RAM-16GB-0088CC?style=for-the-badge&logoColor=white">
-      <img src="https://img.shields.io/badge/Manjaro GNOME-34be5b?style=for-the-badge&logo=manjaro&logoColor=white">
+      <img src="https://img.shields.io/badge/Windows 11-34be5b?style=for-the-badge&logo=gitforwindows&logoColor=white">
     </th>
   </tr>
 </table> 
